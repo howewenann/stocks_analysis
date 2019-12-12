@@ -3,6 +3,7 @@ jupyter notebook
 pandas
 yfinance
 PyPortfolioOpt
+finquant
 
 # external requirements
 click
