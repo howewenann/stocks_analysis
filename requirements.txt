@@ -1,9 +1,11 @@
 # local package
-jupyter notebook
+jupyter 
+notebook
 pandas
 yfinance
 PyPortfolioOpt
 finquant
+sklearn
 
 # external requirements
 click
