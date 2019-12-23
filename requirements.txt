@@ -3,6 +3,7 @@ jupyter
 notebook
 pandas
 yfinance
+lxml
 PyPortfolioOpt
 finquant
 sklearn
